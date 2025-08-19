@@ -20,7 +20,7 @@
 Installation
 ```bash
 git clone https://github.com/himeshaRamanayaka/Web-Scanner.git
-cd ultimate-web-pentest
+cd Web-Scanner
 chmod +x ultimate_web_pentest.py
 Install dependencies:
 
