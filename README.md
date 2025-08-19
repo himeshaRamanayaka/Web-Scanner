@@ -2,8 +2,6 @@
 
 🚀 **Automated Reconnaissance + Directory Brute-Force + CMS Fingerprinting + SQLi/Nikto Integration**
 
-This project is designed for **cybersecurity students and pentesters** who want a **one-stop script** for web application penetration testing in labs or CTFs.  
-
 ⚠️ **For Educational Purposes Only. Do NOT run this against systems you do not own or have explicit permission to test.**
 
 ---
@@ -21,7 +19,7 @@ This project is designed for **cybersecurity students and pentesters** who want 
 
 Installation
 ```bash
-git clone https://github.com/himeshaRamanayaka/ultimate-web-pentest.git
+git clone https://github.com/himeshaRamanayaka/Web-Scanner.git
 cd ultimate-web-pentest
 chmod +x ultimate_web_pentest.py
 Install dependencies:
