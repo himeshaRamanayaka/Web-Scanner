@@ -21,7 +21,7 @@ This project is designed for **cybersecurity students and pentesters** who want 
 
 Installation
 ```bash
-git clone https://github.com/<yourname>/ultimate-web-pentest.git
+git clone https://github.com/himeshaRamanayaka/ultimate-web-pentest.git
 cd ultimate-web-pentest
 chmod +x ultimate_web_pentest.py
 Install dependencies:
